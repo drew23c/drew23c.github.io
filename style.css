@@ -3,6 +3,7 @@ body{
     background-size:cover;
     background-attachment:fixed;
     position: relative;
+    height:100vh;
 }
 .container{
     position: absolute;
@@ -10,6 +11,7 @@ body{
     width:40%;
     text-align: center;
     margin-left:30%;
+    margin-top:15%;    
 }
 .container2{
     position: absolute;
@@ -19,7 +21,13 @@ body{
     margin-left:30%;
     margin-top:30%;
 }
-
+h2{
+    font-size:80px;
+}
+input{
+    font-size:20px;
+    width:40px;
+}
 .hide{
     display:none;
 }
