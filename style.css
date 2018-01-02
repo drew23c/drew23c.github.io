@@ -1,0 +1,25 @@
+body{
+    background-image:url('pics/background.jpg');
+    background-size:cover;
+    background-attachment:fixed;
+    position: relative;
+}
+.container{
+    position: absolute;
+    background-color: rgb(233, 105, 105);
+    width:40%;
+    text-align: center;
+    margin-left:30%;
+}
+.container2{
+    position: absolute;
+    background-color: rgb(233, 105, 105);
+    width:40%;
+    text-align: center;
+    margin-left:30%;
+    margin-top:30%;
+}
+
+.hide{
+    display:none;
+}
