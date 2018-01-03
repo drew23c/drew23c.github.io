@@ -11,7 +11,10 @@ body{
     width:40%;
     text-align: center;
     margin-left:30%;
-    margin-top:15%;    
+    margin-top:5%;    
+}
+#intro{
+    font-size:25px;
 }
 .container2{
     position: absolute;
@@ -32,6 +35,9 @@ input{
     display:none;
 }
 img{
-    height:30%;
-    width:30%;
+    height:80%;
+    width:80%;
+}
+.cl, .by, .em{
+    display:none !important;
 }

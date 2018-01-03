@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', ()=>{
-    let inpLet = document.querySelector('#inputLet')
+    let inpLet = document.querySelector('#id-simple-speak')
     let inpNum = document.querySelector('#inputNum')
     let alpha = document.querySelector('#alpha')
     let bLet = document.querySelector('#bLet')
