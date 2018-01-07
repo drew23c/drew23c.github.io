@@ -8,9 +8,9 @@ body{
 .container{
     position: absolute;
     background-color: rgb(233, 105, 105);
-    width:40%;
+    width:60%;
     text-align: center;
-    margin-left:30%;
+    margin-left:20%;
     margin-top:5%;    
 }
 #intro{
@@ -40,4 +40,10 @@ img{
 }
 .cl, .by, .em{
     display:none !important;
+}
+@media only screen and (max-width: 560px){
+    .container{
+        width:100%;
+        margin:0;
+    }
 }
